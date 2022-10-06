@@ -12,7 +12,6 @@ strong
     color: #f9faf8;
     font-size: 48px;
     font-weight: bolder;
-    
 }
 
 em
@@ -62,11 +61,6 @@ header
     justify-content: space-between;
 }
 
-.header-menu
-{
-    
-}
-
 .header-highlight
 {
     display: flex;
@@ -97,7 +91,6 @@ header
     padding: 10px;
     text-align: center;
     width: 100px;
-    
 }
 
 .randominformation
@@ -121,7 +114,6 @@ header
 .image-card
 {
     max-width: 200px;
-    /* text-align: justify; */
 }
 
 .image-card img
