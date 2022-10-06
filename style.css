@@ -160,3 +160,42 @@ header
     font-weight: bold;
     margin: 0 auto;
 }
+
+.calltoaction
+{
+    padding: 64px;
+    margin: 0 auto;
+}
+
+.calltoaction-wrapper, button
+{
+    background-color: #3882f6;
+    border-radius: 8px;
+    color: white;
+}
+
+.calltoaction-wrapper
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    padding: 32px;
+    width: 800px;
+}
+
+.calltoaction-container
+{
+    width: 600px;
+}
+
+.calltoaction button
+{
+    border: 2px solid #e5e7eb;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 4px auto;
+    height: 40px;
+    width: 130px
+}
